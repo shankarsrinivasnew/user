@@ -1,0 +1,2 @@
+component : user
+params: "DOCUMENTDB:prod.user.mongo,REDIS_HOST:prod.elasticache_endpoint_user,MONGO_URL:prod.docdb_url_user"
